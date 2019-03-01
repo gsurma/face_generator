@@ -6,6 +6,8 @@
 
 Python notebook containing TensorFlow DCGAN implementation. It was trained on a [Celebrities](https://www.kaggle.com/greg115/celebrities-100k) dataset.
 
+Check out corresponding [Kaggle Kernel](https://www.kaggle.com/greg115/face-generator-dcgan-celebrities).
+
 
 ## DCGAN
 Network architecture by [Radford et al., 2015](https://arxiv.org/abs/1511.06434).
