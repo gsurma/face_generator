@@ -21,7 +21,7 @@ Visualization of training with the following hyperparameteres.
 	LR_D = 0.00004
 	LR_G = 0.0002
 	BATCH_SIZE = 64
-	EPOCHS = 600
+	EPOCHS = 60
 	BETA1 = 0.5
 	WEIGHT_INIT_STDDEV = 0.02
 	EPSILON = 0.00005
